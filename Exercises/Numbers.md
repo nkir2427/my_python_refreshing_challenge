@@ -178,7 +178,7 @@ Python stores decimal numbers using **floating-point representation**, which can
 
 The following screenshot shows the interactive Python IDLE session used during this lesson.
 
-![Python Numbers Practice](Images/numbers.jpg)
+![Python Numbers Practice](Images/Numbers.jpg)
 
 ---
 
