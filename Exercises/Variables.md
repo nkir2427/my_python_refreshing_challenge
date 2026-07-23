@@ -133,6 +133,6 @@ print("Home Expenses", Item1, ",", Item2)
 
 The following screenshot shows the interactive Python IDLE session used while practicing these concepts.
 
-![Python Variables Practice](images/variables.jpg)
+![Python Variables Practice](Images/Variables.jpg)
 
 ---
